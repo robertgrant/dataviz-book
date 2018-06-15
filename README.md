@@ -1,7 +1,7 @@
 # dataviz-book
 Code and data for images in my book "Data Visualisation: charts, maps and interactive graphics"
 
-This webpage accompanies my book [*Data Visualisation: charts, maps and interactive graphics]*(#), which is published by CRC Press and part of the CRC-ASA series on Statistical Reasoning In Science And Society.
+This webpage accompanies my book [*Data Visualisation: charts, maps and interactive graphics]*(#), which is due to be published by CRC Press in September 2018. It is part of the CRC-ASA series on Statistical Reasoning In Science And Society.
 
 Here, I explain how I made the images in the book, and some of the back story behind the examples made by others. Everything is arranged by chapter in the tabs below. There are links to code files for R and Stata, the data files, and the SVG originals. All the code files here are my own work and I release them under [The Unlicense](http://unlicense.org/).
 
