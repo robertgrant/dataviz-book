@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Ch2-table1-position -->
+
+<svg version="1.1" viewBox="0 0 3000 1000" xmlns="http://www.w3.org/2000/svg">
+	<desc></desc>
+	<rect x="0.00" y="0.00" width="2990" height="990" style="fill: #FFFFFF; stroke: #000000; stroke-width: 5"/>
+	<circle cx="1000" cy="200" r="60" style="fill: none; stroke: #000000; stroke-width: 15"/>
+	<circle cx="2000" cy="400" r="60" style="fill: none; stroke: #000000; stroke-width: 15"/>
+	<circle cx="1500" cy="600" r="60" style="fill: none; stroke: #000000; stroke-width: 15"/>
+	<line x1="100" y1="900" x2="2800" y2="900" style="stroke: #000000; stroke-width: 15"/>
+	<line x1="2720" y1="820" x2="2800" y2="905" style="stroke: #000000; stroke-width: 15"/>
+	<line x1="2720" y1="980" x2="2800" y2="895" style="stroke: #000000; stroke-width: 15"/>
+</svg>

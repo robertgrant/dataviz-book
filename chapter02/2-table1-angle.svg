@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Ch2-table1-angle -->
+
+<svg version="1.1" viewBox="0 0 3000 1000" xmlns="http://www.w3.org/2000/svg">
+	<desc></desc>
+	<rect x="0.00" y="0.00" width="2990" height="990" style="fill: #FFFFFF; stroke: #000000; stroke-width: 5"/>
+
+	<path d="M 500,700 L 806.42,442.89" style="fill: #999999; stroke: #000000; stroke-width: 15"/>
+	<circle cx="806.42" cy="442.89" r="30" style="fill: #ffffff; stroke: #000000; stroke-width: 15"/>
+
+	<path d="M 1900,700 L 1969.46,306.08" style="fill: #999999; stroke: #000000; stroke-width: 15"/>
+	<circle cx="1969.46" cy="306.08" r="30" style="fill: #ffffff; stroke: #000000; stroke-width: 15"/>
+
+	<path d="M 1200,700 L 1000,353.59" style="fill: #999999; stroke: #000000; stroke-width: 15"/>
+	<circle cx="1000" cy="353.59" r="30" style="fill: #ffffff; stroke: #000000; stroke-width: 15"/>
+	<!--
+	<line x1="100" y1="900" x2="2800" y2="900" style="stroke: #000000; stroke-width: 15"/>
+	<line x1="2720" y1="820" x2="2800" y2="905" style="stroke: #000000; stroke-width: 15"/>
+	<line x1="2720" y1="980" x2="2800" y2="895" style="stroke: #000000; stroke-width: 15"/>
+	-->
+</svg>
