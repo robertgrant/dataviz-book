@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 14.2 generated SVG file (http://www.stata.com) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="11.5in"
+   height="4.5999999in"
+   viewBox="0 0 8280 3311.9999"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="4-bar-compare-ranked.svg"
+   inkscape:export-filename="/Users/robert/Dropbox/Books/Dataviz CRC-ASA/images/3-bar-compare-ranked.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata156">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs154" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1232"
+     inkscape:window-height="737"
+     id="namedview152"
+     showgrid="false"
+     inkscape:zoom="0.68111408"
+     inkscape:cx="409.69336"
+     inkscape:cy="132.15215"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Stata Graph - Graph</desc>
+  <!-- containing boxes for plotregion and graphregion -->
+  <rect
+     x="160"
+     y="125.41943"
+     width="3959.8799"
+     height="2880"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect6" />
+  <rect
+     x="550.67999"
+     y="226.2794"
+     width="3468.3401"
+     height="2122.8701"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect8" />
+  <!-- gridlines -->
+  <line
+     x1="550.67999"
+     y1="2349.1494"
+     x2="4019.02"
+     y2="2349.1494"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line10" />
+  <line
+     x1="550.67999"
+     y1="2146.9395"
+     x2="4019.02"
+     y2="2146.9395"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line12" />
+  <line
+     x1="550.67999"
+     y1="1944.7295"
+     x2="4019.02"
+     y2="1944.7295"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line14" />
+  <line
+     x1="550.67999"
+     y1="1742.5093"
+     x2="4019.02"
+     y2="1742.5093"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line16" />
+  <line
+     x1="550.67999"
+     y1="1540.2994"
+     x2="4019.02"
+     y2="1540.2994"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line18" />
+  <line
+     x1="550.67999"
+     y1="1338.0795"
+     x2="4019.02"
+     y2="1338.0795"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line20" />
+  <line
+     x1="550.67999"
+     y1="1135.8694"
+     x2="4019.02"
+     y2="1135.8694"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line22" />
+  <line
+     x1="550.67999"
+     y1="933.65942"
+     x2="4019.02"
+     y2="933.65942"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line24" />
+  <line
+     x1="550.67999"
+     y1="731.43945"
+     x2="4019.02"
+     y2="731.43945"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line26" />
+  <line
+     x1="550.67999"
+     y1="529.22943"
+     x2="4019.02"
+     y2="529.22943"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line28" />
+  <line
+     x1="550.67999"
+     y1="327.13937"
+     x2="4019.02"
+     y2="327.13937"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line30" />
+  <!-- bars -->
+  <rect
+     x="824.46997"
+     y="529.34943"
+     width="91.160004"
+     height="1819.8"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect32" />
+  <rect
+     x="915.83002"
+     y="913.52942"
+     width="91.160004"
+     height="1435.62"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect34" />
+  <rect
+     x="1128.6799"
+     y="731.54944"
+     width="91.160004"
+     height="1617.6"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect36" />
+  <rect
+     x="1220.04"
+     y="731.54944"
+     width="91.160004"
+     height="1617.6"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect38" />
+  <rect
+     x="1432.89"
+     y="751.76941"
+     width="91.160004"
+     height="1597.38"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect40" />
+  <rect
+     x="1524.25"
+     y="812.42944"
+     width="91.160004"
+     height="1536.72"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect42" />
+  <rect
+     x="1737.1"
+     y="1196.6094"
+     width="91.160004"
+     height="1152.54"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect44" />
+  <rect
+     x="1828.46"
+     y="1237.0494"
+     width="91.160004"
+     height="1112.1"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect46" />
+  <rect
+     x="2041.3101"
+     y="1904.3093"
+     width="91.160004"
+     height="444.84"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect48" />
+  <rect
+     x="2132.6699"
+     y="2126.7295"
+     width="91.160004"
+     height="222.42"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect50" />
+  <rect
+     x="2345.52"
+     y="1924.5293"
+     width="91.160004"
+     height="424.62"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect52" />
+  <rect
+     x="2436.8799"
+     y="1681.8894"
+     width="91.160004"
+     height="667.26001"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect54" />
+  <rect
+     x="2649.73"
+     y="1985.1895"
+     width="91.160004"
+     height="363.95999"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect56" />
+  <rect
+     x="2741.0901"
+     y="1985.1895"
+     width="91.160004"
+     height="363.95999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect58" />
+  <rect
+     x="2953.9399"
+     y="2066.0693"
+     width="91.160004"
+     height="283.07999"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect60" />
+  <rect
+     x="3045.3"
+     y="2025.6294"
+     width="91.160004"
+     height="323.51999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect62" />
+  <rect
+     x="3258.1499"
+     y="2106.5093"
+     width="91.160004"
+     height="242.64"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect64" />
+  <rect
+     x="3349.51"
+     y="2167.1694"
+     width="91.160004"
+     height="181.98"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect66" />
+  <rect
+     x="3562.3601"
+     y="2126.7295"
+     width="91.160004"
+     height="222.42"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect68" />
+  <rect
+     x="3653.72"
+     y="1964.9695"
+     width="91.160004"
+     height="384.17999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect70" />
+  <!-- y axis -->
+  <line
+     x1="550.67999"
+     y1="2349.1494"
+     x2="550.67999"
+     y2="226.2794"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line72" />
+  <!-- y-ticks and labels -->
+  <line
+     x1="550.67999"
+     y1="2349.1494"
+     x2="510.70999"
+     y2="2349.1494"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line74" />
+  <text
+     x="-2349.1494"
+     y="460.71997"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text76">0</text>
+  <line
+     x1="550.67999"
+     y1="2146.9395"
+     x2="510.70999"
+     y2="2146.9395"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line78" />
+  <line
+     x1="550.67999"
+     y1="1944.7295"
+     x2="510.70999"
+     y2="1944.7295"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line82" />
+  <text
+     x="-1944.7295"
+     y="460.72006"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text84">20</text>
+  <line
+     x1="550.67999"
+     y1="1742.5093"
+     x2="510.70999"
+     y2="1742.5093"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line86" />
+  <line
+     x1="550.67999"
+     y1="1540.2994"
+     x2="510.70999"
+     y2="1540.2994"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line90" />
+  <text
+     x="-1540.2994"
+     y="460.72"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text92">40</text>
+  <line
+     x1="550.67999"
+     y1="1338.0795"
+     x2="510.70999"
+     y2="1338.0795"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line94" />
+  <line
+     x1="550.67999"
+     y1="1135.8694"
+     x2="510.70999"
+     y2="1135.8694"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line98" />
+  <text
+     x="-1135.8694"
+     y="460.72"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text100">60</text>
+  <line
+     x1="550.67999"
+     y1="933.65942"
+     x2="510.70999"
+     y2="933.65942"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line102" />
+  <line
+     x1="550.67999"
+     y1="731.43945"
+     x2="510.70999"
+     y2="731.43945"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line106" />
+  <text
+     x="-731.43945"
+     y="460.72003"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text108">80</text>
+  <line
+     x1="550.67999"
+     y1="529.22943"
+     x2="510.70999"
+     y2="529.22943"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line110" />
+  <line
+     x1="550.67999"
+     y1="327.13937"
+     x2="510.70999"
+     y2="327.13937"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line114" />
+  <text
+     x="-327.13937"
+     y="460.72"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text116">100</text>
+  <!-- y title -->
+  <text
+     x="-1287.7195"
+     y="222.71005"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text118">% of respondents who use:</text>
+  <!-- x axis-->
+  <line
+     x1="550.67999"
+     y1="2349.1494"
+     x2="4019.02"
+     y2="2349.1494"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line120" />
+  <!-- x labels -->
+  <text
+     x="915.72998"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text122">P1</text>
+  <text
+     x="1219.9399"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text124">P2</text>
+  <text
+     x="1524.15"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text126">P3</text>
+  <text
+     x="1828.36"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text128">P4</text>
+  <text
+     x="2132.5698"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text130">P5</text>
+  <text
+     x="2436.78"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text132">P6</text>
+  <text
+     x="2740.99"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text134">P7</text>
+  <text
+     x="3045.2"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text136">P8</text>
+  <text
+     x="3349.4099"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text138">P9</text>
+  <text
+     x="3653.6201"
+     y="2499.0593"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text140">P10</text>
+  <!-- legend outline -->
+  <rect
+     x="945.13879"
+     y="2927.3108"
+     width="2816.8499"
+     height="225.45522"
+     style="fill:#ffffff;stroke:#000000;stroke-width:6.76478529"
+     id="rect142" />
+  <!-- legend boxes -->
+  <rect
+     x="1112.2207"
+     y="2989.1375"
+     width="324.34"
+     height="99.989998"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect144" />
+  <rect
+     x="2487.6147"
+     y="2989.1831"
+     width="324.47"
+     height="99.989998"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect146" />
+  <!-- legend text -->
+  <text
+     x="1497.4515"
+     y="3073.3066"
+     style="font-size:130px;font-family:Helvetica;fill:#000000"
+     id="text148">2014 survey</text>
+  <text
+     id="text3497"
+     style="font-size:160px;font-family:Helvetica;fill:#000000"
+     y="2741.3586"
+     x="339.53372">Most popular in 2014</text>
+  <text
+     x="3038.1521"
+     y="2731.7891"
+     style="font-size:160px;font-family:Helvetica;fill:#000000"
+     id="text3499">Least popular</text>
+  <text
+     x="2871.9746"
+     y="3073.3711"
+     style="font-size:130px;font-family:Helvetica;fill:#000000"
+     id="text150">2017 survey</text>
+  <rect
+     x="4043.4148"
+     y="138.19354"
+     width="3959.8799"
+     height="2880"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect4479" />
+  <rect
+     x="4706.0947"
+     y="239.05354"
+     width="3468.3401"
+     height="2122.8701"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect4481" />
+  <line
+     x1="4706.0947"
+     y1="2361.9233"
+     x2="8174.4351"
+     y2="2361.9233"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4483" />
+  <line
+     x1="4706.0947"
+     y1="2159.7134"
+     x2="8174.4351"
+     y2="2159.7134"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4485" />
+  <line
+     x1="4706.0947"
+     y1="1957.5037"
+     x2="8174.4351"
+     y2="1957.5037"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4487" />
+  <line
+     x1="4706.0947"
+     y1="1755.2836"
+     x2="8174.4351"
+     y2="1755.2836"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4489" />
+  <line
+     x1="4706.0947"
+     y1="1553.0736"
+     x2="8174.4351"
+     y2="1553.0736"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4491" />
+  <line
+     x1="4706.0947"
+     y1="1350.8536"
+     x2="8174.4351"
+     y2="1350.8536"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4493" />
+  <line
+     x1="4706.0947"
+     y1="1148.6436"
+     x2="8174.4351"
+     y2="1148.6436"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4495" />
+  <line
+     x1="4706.0947"
+     y1="946.43353"
+     x2="8174.4351"
+     y2="946.43353"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4497" />
+  <line
+     x1="4706.0947"
+     y1="744.21356"
+     x2="8174.4351"
+     y2="744.21356"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4499" />
+  <line
+     x1="4706.0947"
+     y1="542.00354"
+     x2="8174.4351"
+     y2="542.00354"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4501" />
+  <line
+     x1="4706.0947"
+     y1="339.91354"
+     x2="8174.4351"
+     y2="339.91354"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4503" />
+  <rect
+     x="4979.8848"
+     y="1937.3036"
+     width="91.160004"
+     height="424.62"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4505" />
+  <rect
+     x="5071.2451"
+     y="1694.6636"
+     width="91.160004"
+     height="667.26001"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4507" />
+  <rect
+     x="5284.0947"
+     y="2139.5034"
+     width="91.160004"
+     height="222.42"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4509" />
+  <rect
+     x="5375.4551"
+     y="1977.7437"
+     width="91.160004"
+     height="384.17999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4511" />
+  <rect
+     x="5588.3047"
+     y="2078.8435"
+     width="91.160004"
+     height="283.07999"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4513" />
+  <rect
+     x="5679.665"
+     y="2038.4036"
+     width="91.160004"
+     height="323.51999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4515" />
+  <rect
+     x="5892.5146"
+     y="744.32355"
+     width="91.160004"
+     height="1617.6"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4517" />
+  <rect
+     x="5983.875"
+     y="744.32355"
+     width="91.160004"
+     height="1617.6"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4519" />
+  <rect
+     x="6196.7251"
+     y="1997.9636"
+     width="91.160004"
+     height="363.95999"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4521" />
+  <rect
+     x="6288.085"
+     y="1997.9636"
+     width="91.160004"
+     height="363.95999"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4523" />
+  <rect
+     x="6500.9351"
+     y="1209.3835"
+     width="91.160004"
+     height="1152.54"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4525" />
+  <rect
+     x="6592.2949"
+     y="1249.8236"
+     width="91.160004"
+     height="1112.1"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4527" />
+  <rect
+     x="6805.145"
+     y="2119.2834"
+     width="91.160004"
+     height="242.64"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4529" />
+  <rect
+     x="6896.5049"
+     y="2179.9434"
+     width="91.160004"
+     height="181.98"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4531" />
+  <rect
+     x="7109.355"
+     y="764.54352"
+     width="91.160004"
+     height="1597.38"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4533" />
+  <rect
+     x="7200.7148"
+     y="825.20355"
+     width="91.160004"
+     height="1536.72"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4535" />
+  <rect
+     x="7413.5649"
+     y="1917.0836"
+     width="91.160004"
+     height="444.84"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4537" />
+  <rect
+     x="7504.9248"
+     y="2139.5034"
+     width="91.160004"
+     height="222.42"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4539" />
+  <rect
+     x="7717.7749"
+     y="542.12354"
+     width="91.160004"
+     height="1819.8"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4541" />
+  <rect
+     x="7809.1348"
+     y="926.30353"
+     width="91.160004"
+     height="1435.62"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4543" />
+  <line
+     x1="4706.0947"
+     y1="2361.9233"
+     x2="4706.0947"
+     y2="239.05354"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4545" />
+  <line
+     x1="4706.0947"
+     y1="2361.9233"
+     x2="4666.125"
+     y2="2361.9233"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4547" />
+  <text
+     x="-2361.9236"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4549">0</text>
+  <line
+     x1="4706.0947"
+     y1="2159.7134"
+     x2="4666.125"
+     y2="2159.7134"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4551" />
+  <line
+     x1="4706.0947"
+     y1="1957.5037"
+     x2="4666.125"
+     y2="1957.5037"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4555" />
+  <text
+     x="-1957.5037"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4557">20</text>
+  <line
+     x1="4706.0947"
+     y1="1755.2836"
+     x2="4666.125"
+     y2="1755.2836"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4559" />
+  <line
+     x1="4706.0947"
+     y1="1553.0736"
+     x2="4666.125"
+     y2="1553.0736"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4563" />
+  <text
+     x="-1553.0736"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4565">40</text>
+  <line
+     x1="4706.0947"
+     y1="1350.8536"
+     x2="4666.125"
+     y2="1350.8536"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4567" />
+  <line
+     x1="4706.0947"
+     y1="1148.6436"
+     x2="4666.125"
+     y2="1148.6436"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4571" />
+  <text
+     x="-1148.6437"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4573">60</text>
+  <line
+     x1="4706.0947"
+     y1="946.43353"
+     x2="4666.125"
+     y2="946.43353"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4575" />
+  <line
+     x1="4706.0947"
+     y1="744.21356"
+     x2="4666.125"
+     y2="744.21356"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4579" />
+  <text
+     x="-744.21356"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4581">80</text>
+  <line
+     x1="4706.0947"
+     y1="542.00354"
+     x2="4666.125"
+     y2="542.00354"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4583" />
+  <line
+     x1="4706.0947"
+     y1="339.91354"
+     x2="4666.125"
+     y2="339.91354"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4587" />
+  <text
+     x="-339.91354"
+     y="4616.1348"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4589">100</text>
+  <text
+     x="-1300.4937"
+     y="4426.125"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text4591">% of respondents who use:</text>
+  <line
+     x1="4706.0947"
+     y1="2361.9233"
+     x2="8174.4351"
+     y2="2361.9233"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4593" />
+  <text
+     x="5071.145"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4595">P6</text>
+  <text
+     x="5375.355"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4597">P10</text>
+  <text
+     x="5679.5649"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4599">P8</text>
+  <text
+     x="5983.7749"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4601">P2</text>
+  <text
+     x="6287.9849"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4603">P7</text>
+  <text
+     x="6592.1948"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4605">P4</text>
+  <text
+     x="6896.4048"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4607">P9</text>
+  <text
+     x="7200.6147"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4609">P3</text>
+  <text
+     x="7504.8247"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4611">P5</text>
+  <text
+     x="7809.0352"
+     y="2511.8333"
+     style="font-size:130px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4613">P1</text>
+  <rect
+     x="5014.439"
+     y="2927.3218"
+     width="2835.9666"
+     height="225.43265"
+     style="fill:#ffffff;stroke:#000000;stroke-width:6.78736162"
+     id="rect4615" />
+  <rect
+     x="5229.3574"
+     y="2989.198"
+     width="324.34"
+     height="99.989998"
+     style="fill:#202020;stroke:#000000;stroke-width:0.12"
+     id="rect4617" />
+  <rect
+     x="6528.1948"
+     y="2989.1372"
+     width="324.47"
+     height="99.989998"
+     style="fill:#e0e0e0;stroke:#000000;stroke-width:0.12"
+     id="rect4619" />
+  <text
+     x="5614.5879"
+     y="3073.1672"
+     style="font-size:130px;font-family:Helvetica;fill:#000000"
+     id="text4621">2014 survey</text>
+  <text
+     id="text3503"
+     style="font-size:160px;font-family:Helvetica;fill:#000000"
+     y="2728.6499"
+     x="4695.9097">Biggest increase</text>
+  <text
+     x="6983.0366"
+     y="2728.6892"
+     style="font-size:160px;font-family:Helvetica;fill:#000000"
+     id="text3505">Biggest increase</text>
+  <text
+     x="6912.5547"
+     y="3073.1672"
+     style="font-size:130px;font-family:Helvetica;fill:#000000"
+     id="text4623">2017 survey</text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.27691126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:60, 20;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 1901.6788,2680.3934 1081.3269,9.5998"
+     id="path4799"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.99858189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:60, 20;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 5953.701,2696.4557 937.6985,-9.6639"
+     id="path4817"
+     inkscape:connector-curvature="0" />
+</svg>

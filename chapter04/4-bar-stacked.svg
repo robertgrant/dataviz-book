@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 14.2 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="289.45" y="275.48" width="3569.57" height="1813.74" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="289.45" y1="2089.21" x2="3859.02" y2="2089.21" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="289.45" y1="1518.21" x2="3859.02" y2="1518.21" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="289.45" y1="947.21" x2="3859.02" y2="947.21" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="289.45" y1="376.21" x2="3859.02" y2="376.21" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<rect x="609.59" y="1708.55" width="1097.04" height="380.67" style="fill:#1A476F;stroke:#1A476F;stroke-width:0.12"/>
+	<rect x="609.59" y="888.68" width="1097.04" height="819.87" style="fill:#E37E00;stroke:#E37E00;stroke-width:0.12"/>
+	<rect x="609.59" y="682.01" width="1097.04" height="206.67" style="fill:#000000;stroke:#000000;stroke-width:0.12"/>
+	<rect x="2441.71" y="1756.93" width="1097.04" height="332.28" style="fill:#1A476F;stroke:#1A476F;stroke-width:0.12"/>
+	<rect x="2441.71" y="902.66" width="1097.04" height="854.27" style="fill:#E37E00;stroke:#E37E00;stroke-width:0.12"/>
+	<rect x="2441.71" y="663.94" width="1097.04" height="238.72" style="fill:#000000;stroke:#000000;stroke-width:0.12"/>
+	<line x1="289.45" y1="2089.21" x2="289.45" y2="275.48" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="289.45" y1="2089.21" x2="249.36" y2="2089.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="199.37" y="2089.21" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 199.37,2089.21)" text-anchor="middle">0</text>
+	<line x1="289.45" y1="1518.21" x2="249.36" y2="1518.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="199.37" y="1518.21" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 199.37,1518.21)" text-anchor="middle">50</text>
+	<line x1="289.45" y1="947.21" x2="249.36" y2="947.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="199.37" y="947.21" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 199.37,947.21)" text-anchor="middle">100</text>
+	<line x1="289.45" y1="376.21" x2="249.36" y2="376.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="199.37" y="376.21" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" transform="rotate(-90 199.37,376.21)" text-anchor="middle">150</text>
+	<line x1="289.45" y1="2089.21" x2="3859.02" y2="2089.21" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1158.18" y="2199.12" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">2010</text>
+	<text x="2990.30" y="2199.12" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">2015</text>
+	<text x="306.65" y="2731.88" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Customers can use multiple platforms, so percentages add to more than 100</text>
+	<text x="2074.17" y="216.10" style="font-family:'Helvetica';font-size:139.96px;fill:#1E2D53" text-anchor="middle">Customers' social media use</text>
+	<rect x="1021.68" y="2283.75" width="2104.99" height="326.34" style="fill:#FFFFFF;stroke:#000000;stroke-width:5.76"/>
+	<rect x="1064.87" y="2326.94" width="374.47" height="99.99" style="fill:#1A476F;stroke:#1A476F;stroke-width:0.12"/>
+	<rect x="2258.07" y="2326.94" width="374.34" height="99.99" style="fill:#E37E00;stroke:#E37E00;stroke-width:0.12"/>
+	<rect x="1064.87" y="2466.91" width="374.47" height="99.99" style="fill:#000000;stroke:#000000;stroke-width:0.12"/>
+	<text x="1499.23" y="2411.97" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">CheepCheep</text>
+	<text x="2692.43" y="2411.97" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">Linkchat</text>
+	<text x="1499.23" y="2551.93" style="font-family:'Helvetica';font-size:99.99px;fill:#000000">MyFace</text>
+</svg>

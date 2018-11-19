@@ -1,6 +1,6 @@
 **Chapter 3**
 
-All the R code is in [Ch3.R](#).
+All the R code is in [Ch3.R](Ch3.R).
 
 Figure 3.1's strip chart or dot plot was generated with the R function `stripchart()`. I wrapped that in a function `drawstripchart()` so that parameters would only need to be specified in one place, making sure that SVG and PNG version match. The SVG file is [here](3-stripchart-dotplot.svg).
 

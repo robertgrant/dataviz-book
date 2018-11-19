@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 14.2 generated SVG file (http://www.stata.com) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="12.5in"
+   height="4.5999999in"
+   viewBox="0 0 9000 3311.9999"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="4-bar-compare-time.svg"
+   inkscape:export-filename="/Users/robert/Dropbox/Books/Dataviz CRC-ASA/images/4-bar-compare-time.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs116" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1204"
+     inkscape:window-height="645"
+     id="namedview114"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:zoom="0.62626263"
+     inkscape:cx="529.15984"
+     inkscape:cy="180"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Stata Graph - Graph</desc>
+  <rect
+     x="207.0968"
+     y="240.3871"
+     width="3959.8799"
+     height="2880"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect6" />
+  <rect
+     x="1403.3868"
+     y="515.86707"
+     width="2662.73"
+     height="2213.8301"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect8" />
+  <line
+     x1="1403.3868"
+     y1="2729.6973"
+     x2="1403.3868"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line10" />
+  <line
+     x1="1659.5466"
+     y1="2729.6973"
+     x2="1659.5466"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line12" />
+  <line
+     x1="1915.7168"
+     y1="2729.6973"
+     x2="1915.7168"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line14" />
+  <line
+     x1="2171.8767"
+     y1="2729.6973"
+     x2="2171.8767"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line16" />
+  <line
+     x1="2428.1667"
+     y1="2729.6973"
+     x2="2428.1667"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line18" />
+  <line
+     x1="2684.3267"
+     y1="2729.6973"
+     x2="2684.3267"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line20" />
+  <line
+     x1="2940.4866"
+     y1="2729.6973"
+     x2="2940.4866"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line22" />
+  <line
+     x1="3196.7766"
+     y1="2729.6973"
+     x2="3196.7766"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line24" />
+  <line
+     x1="3452.9368"
+     y1="2729.6973"
+     x2="3452.9368"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line26" />
+  <line
+     x1="3709.0967"
+     y1="2729.6973"
+     x2="3709.0967"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line28" />
+  <line
+     x1="3965.2568"
+     y1="2729.6973"
+     x2="3965.2568"
+     y2="515.86707"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line30" />
+  <rect
+     x="1403.3868"
+     y="2434.2971"
+     width="535.34003"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect32" />
+  <rect
+     x="1403.3868"
+     y="2163.5271"
+     width="463.69"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect34" />
+  <rect
+     x="1403.3868"
+     y="1677.0471"
+     width="1916.27"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect36" />
+  <rect
+     x="1403.3868"
+     y="1406.2771"
+     width="1839.17"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect38" />
+  <rect
+     x="1403.3868"
+     y="919.797"
+     width="745.46997"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect40" />
+  <rect
+     x="1403.3868"
+     y="649.0271"
+     width="853.88"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect42" />
+  <line
+     x1="1403.3868"
+     y1="2729.6973"
+     x2="4066.1167"
+     y2="2729.6973"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line44" />
+  <line
+     x1="1403.3868"
+     y1="2729.6973"
+     x2="1403.3868"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line46" />
+  <text
+     x="1403.3868"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text48">0</text>
+  <line
+     x1="1659.5466"
+     y1="2729.6973"
+     x2="1659.5466"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line50" />
+  <text
+     x="1659.5466"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text52">10</text>
+  <line
+     x1="1915.7168"
+     y1="2729.6973"
+     x2="1915.7168"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line54" />
+  <text
+     x="1915.7168"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text56">20</text>
+  <line
+     x1="2171.8767"
+     y1="2729.6973"
+     x2="2171.8767"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line58" />
+  <text
+     x="2171.8767"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text60">30</text>
+  <line
+     x1="2428.1667"
+     y1="2729.6973"
+     x2="2428.1667"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line62" />
+  <text
+     x="2428.1667"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text64">40</text>
+  <line
+     x1="2684.3267"
+     y1="2729.6973"
+     x2="2684.3267"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line66" />
+  <text
+     x="2684.3267"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text68">50</text>
+  <line
+     x1="2940.4866"
+     y1="2729.6973"
+     x2="2940.4866"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line70" />
+  <text
+     x="2940.4866"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text72">60</text>
+  <line
+     x1="3196.7766"
+     y1="2729.6973"
+     x2="3196.7766"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line74" />
+  <text
+     x="3196.7766"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text76">70</text>
+  <line
+     x1="3452.9368"
+     y1="2729.6973"
+     x2="3452.9368"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line78" />
+  <text
+     x="3452.9368"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text80">80</text>
+  <line
+     x1="3709.0967"
+     y1="2729.6973"
+     x2="3709.0967"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line82" />
+  <text
+     x="3709.0967"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text84">90</text>
+  <line
+     x1="3965.2568"
+     y1="2729.6973"
+     x2="3965.2568"
+     y2="2769.6672"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line86" />
+  <text
+     x="3965.2568"
+     y="2923.5271"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text88">100</text>
+  <text
+     x="2734.6868"
+     y="3113.5471"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text90">% of respondents who use:</text>
+  <text
+     x="976.55682"
+     y="2418.5073"
+     style="font-size:160px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text92">MyFace</text>
+  <text
+     x="976.55682"
+     y="1661.2571"
+     style="font-size:160px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text94">Linkchat</text>
+  <text
+     x="976.55682"
+     y="904.00708"
+     style="font-size:160px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text96">CheepCheep</text>
+  <line
+     x1="1403.3868"
+     y1="2729.6973"
+     x2="1403.3868"
+     y2="515.86707"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line98" />
+  <text
+     x="1363.2968"
+     y="2550.3872"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text100">2015</text>
+  <text
+     x="1363.2968"
+     y="2279.6072"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text102">2010</text>
+  <text
+     x="1363.2968"
+     y="1793.1371"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text104">2015</text>
+  <text
+     x="1363.2968"
+     y="1522.3571"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text106">2010</text>
+  <text
+     x="1363.2968"
+     y="1035.8871"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text108">2015</text>
+  <text
+     x="1363.2968"
+     y="765.10706"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text110">2010</text>
+  <text
+     x="2462.6868"
+     y="232.48706"
+     style="font-size:190px;font-family:Helvetica;text-anchor:middle;fill:#1e2d53"
+     id="text112">Customers' social media use, 2017</text>
+  <rect
+     x="4816.3179"
+     y="265.93549"
+     width="3959.8799"
+     height="2880"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect4401" />
+  <rect
+     x="5973.998"
+     y="541.41547"
+     width="2701.3401"
+     height="2213.8301"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect4403" />
+  <line
+     x1="5973.998"
+     y1="2755.2456"
+     x2="5973.998"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4405" />
+  <line
+     x1="6234.1182"
+     y1="2755.2456"
+     x2="6234.1182"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4407" />
+  <line
+     x1="6494.1182"
+     y1="2755.2456"
+     x2="6494.1182"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4409" />
+  <line
+     x1="6754.2378"
+     y1="2755.2456"
+     x2="6754.2378"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4411" />
+  <line
+     x1="7014.2378"
+     y1="2755.2456"
+     x2="7014.2378"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4413" />
+  <line
+     x1="7274.2378"
+     y1="2755.2456"
+     x2="7274.2378"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4415" />
+  <line
+     x1="7534.3682"
+     y1="2755.2456"
+     x2="7534.3682"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4417" />
+  <line
+     x1="7794.3579"
+     y1="2755.2456"
+     x2="7794.3579"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4419" />
+  <line
+     x1="8054.4878"
+     y1="2755.2456"
+     x2="8054.4878"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4421" />
+  <line
+     x1="8314.4785"
+     y1="2755.2456"
+     x2="8314.4785"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4423" />
+  <line
+     x1="8574.4785"
+     y1="2755.2456"
+     x2="8574.4785"
+     y2="541.41547"
+     style="stroke:#eaf2f3;stroke-width:8.64000034"
+     id="line4425" />
+  <rect
+     x="5973.998"
+     y="2436.4556"
+     width="543.51001"
+     height="181.67"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4427" />
+  <rect
+     x="5973.998"
+     y="2133.1355"
+     width="1945.23"
+     height="181.67"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4429" />
+  <rect
+     x="5973.998"
+     y="1829.9354"
+     width="756.72998"
+     height="181.55"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4431" />
+  <rect
+     x="5973.998"
+     y="1285.0454"
+     width="470.73999"
+     height="181.67"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4433" />
+  <rect
+     x="5973.998"
+     y="981.72546"
+     width="1866.89"
+     height="181.67"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4435" />
+  <rect
+     x="5973.998"
+     y="678.53546"
+     width="866.87"
+     height="181.55"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect4437" />
+  <line
+     x1="5973.998"
+     y1="2755.2456"
+     x2="8675.3379"
+     y2="2755.2456"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4439" />
+  <line
+     x1="5973.998"
+     y1="2755.2456"
+     x2="5973.998"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4441" />
+  <text
+     x="5973.998"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4443">0</text>
+  <line
+     x1="6234.1182"
+     y1="2755.2456"
+     x2="6234.1182"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4445" />
+  <text
+     x="6234.1182"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4447">10</text>
+  <line
+     x1="6494.1182"
+     y1="2755.2456"
+     x2="6494.1182"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4449" />
+  <text
+     x="6494.1182"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4451">20</text>
+  <line
+     x1="6754.2378"
+     y1="2755.2456"
+     x2="6754.2378"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4453" />
+  <text
+     x="6754.2378"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4455">30</text>
+  <line
+     x1="7014.2378"
+     y1="2755.2456"
+     x2="7014.2378"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4457" />
+  <text
+     x="7014.2378"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4459">40</text>
+  <line
+     x1="7274.2378"
+     y1="2755.2456"
+     x2="7274.2378"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4461" />
+  <text
+     x="7274.2378"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4463">50</text>
+  <line
+     x1="7534.3682"
+     y1="2755.2456"
+     x2="7534.3682"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4465" />
+  <text
+     x="7534.3682"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4467">60</text>
+  <line
+     x1="7794.3579"
+     y1="2755.2456"
+     x2="7794.3579"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4469" />
+  <text
+     x="7794.3579"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4471">70</text>
+  <line
+     x1="8054.4878"
+     y1="2755.2456"
+     x2="8054.4878"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4473" />
+  <text
+     x="8054.4878"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4475">80</text>
+  <line
+     x1="8314.4785"
+     y1="2755.2456"
+     x2="8314.4785"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4477" />
+  <text
+     x="8314.4785"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4479">90</text>
+  <line
+     x1="8574.4785"
+     y1="2755.2456"
+     x2="8574.4785"
+     y2="2795.2156"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4481" />
+  <text
+     x="8574.4785"
+     y="2949.0754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4483">100</text>
+  <text
+     x="7324.728"
+     y="3139.0955"
+     style="font-size:140px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text4485">% of respondents who use:</text>
+  <text
+     x="5098.0581"
+     y="2262.5054"
+     style="font-size:160px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4487">2015</text>
+  <text
+     x="5098.0581"
+     y="1111.0955"
+     style="font-size:160px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4489">2010</text>
+  <line
+     x1="5973.998"
+     y1="2755.2456"
+     x2="5973.998"
+     y2="541.41547"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line4491" />
+  <text
+     x="5934.0278"
+     y="2562.3154"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4493">MyFace</text>
+  <text
+     x="5934.0278"
+     y="2258.9956"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4495">Linkchat</text>
+  <text
+     x="5934.0278"
+     y="1955.6754"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4497">CheepCheep</text>
+  <text
+     x="5934.0278"
+     y="1410.9154"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4499">MyFace</text>
+  <text
+     x="5934.0278"
+     y="1107.5955"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4501">Linkchat</text>
+  <text
+     x="5934.0278"
+     y="804.27551"
+     style="font-size:140px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text4503">CheepCheep</text>
+  <text
+     x="7324.728"
+     y="258.03546"
+     style="font-size:190px;font-family:Helvetica;text-anchor:middle;fill:#1e2d53"
+     id="text4505">Customers' social media use, 2017</text>
+</svg>

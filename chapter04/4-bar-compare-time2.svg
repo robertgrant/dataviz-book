@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 14.2 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="5.50in" height="4.00in" viewBox="0 0 3960 2880" xmlns="http://www.w3.org/2000/svg">
+	<desc>Stata Graph - Graph</desc>
+	<rect x="0.00" y="0.00" width="3959.88" height="2880.00" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="1157.68" y="275.48" width="2701.34" height="2213.83" style="fill:#FFFFFF;stroke:#FFFFFF;stroke-width:5.76"/>
+	<line x1="1157.68" y1="2489.31" x2="1157.68" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="1417.80" y1="2489.31" x2="1417.80" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="1677.80" y1="2489.31" x2="1677.80" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="1937.92" y1="2489.31" x2="1937.92" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="2197.92" y1="2489.31" x2="2197.92" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="2457.92" y1="2489.31" x2="2457.92" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="2718.05" y1="2489.31" x2="2718.05" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="2978.04" y1="2489.31" x2="2978.04" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="3238.17" y1="2489.31" x2="3238.17" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="3498.16" y1="2489.31" x2="3498.16" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<line x1="3758.16" y1="2489.31" x2="3758.16" y2="275.48" style="stroke:#EAF2F3;stroke-width:8.64"/>
+	<rect x="1157.68" y="2170.52" width="543.51" height="181.67" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<rect x="1157.68" y="1867.20" width="1945.23" height="181.67" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<rect x="1157.68" y="1564.00" width="756.73" height="181.55" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<rect x="1157.68" y="1019.11" width="470.74" height="181.67" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<rect x="1157.68" y="715.79" width="1866.89" height="181.67" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<rect x="1157.68" y="412.60" width="866.87" height="181.55" style="fill:#202020;stroke:#202020;stroke-width:0.12"/>
+	<line x1="1157.68" y1="2489.31" x2="3859.02" y2="2489.31" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="1157.68" y1="2489.31" x2="1157.68" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1157.68" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">0</text>
+	<line x1="1417.80" y1="2489.31" x2="1417.80" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1417.80" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">10</text>
+	<line x1="1677.80" y1="2489.31" x2="1677.80" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1677.80" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">20</text>
+	<line x1="1937.92" y1="2489.31" x2="1937.92" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1937.92" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">30</text>
+	<line x1="2197.92" y1="2489.31" x2="2197.92" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2197.92" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">40</text>
+	<line x1="2457.92" y1="2489.31" x2="2457.92" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2457.92" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">50</text>
+	<line x1="2718.05" y1="2489.31" x2="2718.05" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2718.05" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">60</text>
+	<line x1="2978.04" y1="2489.31" x2="2978.04" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="2978.04" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">70</text>
+	<line x1="3238.17" y1="2489.31" x2="3238.17" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3238.17" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">80</text>
+	<line x1="3498.16" y1="2489.31" x2="3498.16" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3498.16" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">90</text>
+	<line x1="3758.16" y1="2489.31" x2="3758.16" y2="2529.28" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="3758.16" y="2619.14" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">100</text>
+	<text x="2508.41" y="2729.16" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="middle">% of respondents who use:</text>
+	<text x="409.74" y="1996.57" style="font-family:'Helvetica';font-size:110.01px;fill:#000000" text-anchor="end">2015</text>
+	<text x="409.74" y="845.16" style="font-family:'Helvetica';font-size:110.01px;fill:#000000" text-anchor="end">2010</text>
+	<line x1="1157.68" y1="2489.31" x2="1157.68" y2="275.48" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="1117.71" y="2296.38" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">MyFace</text>
+	<text x="1117.71" y="1993.06" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">Linkchat</text>
+	<text x="1117.71" y="1689.74" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">CheepCheep</text>
+	<text x="1117.71" y="1144.98" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">MyFace</text>
+	<text x="1117.71" y="841.66" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">Linkchat</text>
+	<text x="1117.71" y="538.34" style="font-family:'Helvetica';font-size:99.99px;fill:#000000" text-anchor="end">CheepCheep</text>
+	<text x="2508.41" y="216.10" style="font-family:'Helvetica';font-size:139.96px;fill:#1E2D53" text-anchor="middle">Customers' social media use</text>
+</svg>
