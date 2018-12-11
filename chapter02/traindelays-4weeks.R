@@ -1,4 +1,30 @@
-setwd('/Users/robert/Dropbox/Books/Dataviz CRC-ASA/images')
+############################################################################
+# This is free and unencumbered software released into the public domain.
+#
+# Anyone is free to copy, modify, publish, use, compile, sell, or
+# distribute this software, either in source code form or as a compiled
+# binary, for any purpose, commercial or non-commercial, and by any
+# means.
+#
+# In jurisdictions that recognize copyright laws, the author or authors
+# of this software dedicate any and all copyright interest in the
+# software to the public domain. We make this dedication for the benefit
+# of the public at large and to the detriment of our heirs and
+# successors. We intend this dedication to be an overt act of
+# relinquishment in perpetuity of all present and future rights to this
+# software under copyright law.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+# EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+# MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+# IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+# OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+# ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+# OTHER DEALINGS IN THE SOFTWARE.
+#
+# For more information, please refer to <http://unlicense.org/>
+############################################################################
+
 
 library(dplyr)
 library(forcats)
@@ -6,7 +32,7 @@ library(svglite)
 
 trains<-read.csv('traindelays.csv',stringsAsFactors=FALSE)
 ffour<-as.factor(as.character(trains$fourweek))
-ffour<-fct_relabel(ffour,fun=function(x) { 
+ffour<-fct_relabel(ffour,fun=function(x) {
   c("6 Apr to 3 May",
     "4 May to 31 May",
     "1 Jun to 28 Jun",
@@ -100,7 +126,7 @@ png('2-traindelays-3a.png'); draw3(); dev.off()
 svglite('2-traindelays-3b.svg'); draw3(line=TRUE); dev.off()
 png('2-traindelays-3b.png'); draw3(line=TRUE); dev.off()
 
-  
+
 
 
 myramp<-colorRampPalette(c('#07030088','#e6550d88'),alpha=TRUE)(20)
@@ -206,12 +232,12 @@ fill, group, linetype, size, weight
 # chapter 5
 
 png('5-trainsdelays-boxplot.png')
-  boxplot(trains$london_se ~ trains$finyear, 
+  boxplot(trains$london_se ~ trains$finyear,
           ylim=c(0,15), yaxs='i', ylab='Mean % delays and cancellations',
           cex.axis=3,cex.main=3,cex.lab=3)
 dev.off()
 svglite::svglite('5-trainsdelays-boxplot.svg')
-  boxplot(trains$london_se ~ trains$finyear, 
+  boxplot(trains$london_se ~ trains$finyear,
           ylim=c(0,15), yaxs='i', ylab='Mean % delays and cancellations',
           cex.axis=3,cex.main=3,cex.lab=3)
 dev.off()
