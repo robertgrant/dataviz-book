@@ -16,6 +16,6 @@ Figure 2.8 is made in Inkscape. I downloaded an SVG train icon from Wikimedia Co
 
 Figure 2.12 was just SVG typed into a text editor; the SVG file is [here](2-bars.svg).
 
-Figure 2.13 was generated as repeated lines of text in R (see [Ch2.R](Ch2.R)) that made up an SVG waffle. The SVG file is [here](2-waffle.svg), and if you look at it is the text editor, you'll see how each line is written out, changing only the x and y coordinates as it goes along.
+Figure 2.13 was generated as repeated lines of text in R (see [Ch2.R](Ch2.R)) that made up an SVG waffle. The SVG file is [here](2-waffle.svg), and if you look at it in the text editor, you'll see how each line is written out, changing only the x and y coordinates as it goes along. In some print runs of the book, the waffle came out looking like there are slightly wider gaps between some of the rows and columns of the grid; that's just a printing artifact and you can see it's not there in the original SVG.
 
 Figures 2.6 and 2.9-2.11 are made by other people.
