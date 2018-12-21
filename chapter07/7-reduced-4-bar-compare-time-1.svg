@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 14.2 generated SVG file (http://www.stata.com) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="7in"
+   height="4in"
+   viewBox="0 0 5040 2880"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="7-reduced-4-bar-compare-time-1.svg"
+   inkscape:export-filename="/Users/robert/Dropbox/Books/Dataviz CRC-ASA/images/7-reduced-4-bar-compare-time1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata118">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs116" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1129"
+     inkscape:window-height="723"
+     id="namedview114"
+     showgrid="false"
+     inkscape:zoom="1.03"
+     inkscape:cx="341.57302"
+     inkscape:cy="180"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Stata Graph - Graph</desc>
+  <rect
+     x="0"
+     y="0"
+     width="3959.8799"
+     height="2880"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect6" />
+  <rect
+     x="1196.29"
+     y="275.48001"
+     width="2662.73"
+     height="2213.8301"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:5.76000023"
+     id="rect8" />
+  <rect
+     x="1196.29"
+     y="2193.9099"
+     width="535.34003"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect32" />
+  <rect
+     x="1196.29"
+     y="1923.14"
+     width="463.69"
+     height="162.12"
+     style="fill:#8d8d8d;stroke:#8d8d8d;stroke-width:0.12"
+     id="rect34" />
+  <rect
+     x="1196.29"
+     y="1436.66"
+     width="1916.27"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect36" />
+  <rect
+     x="1196.29"
+     y="1165.89"
+     width="1839.17"
+     height="162.12"
+     style="fill:#8d8d8d;stroke:#8d8d8d;stroke-width:0.12"
+     id="rect38" />
+  <rect
+     x="1196.29"
+     y="679.40997"
+     width="745.46997"
+     height="162.12"
+     style="fill:#202020;stroke:#202020;stroke-width:0.12"
+     id="rect40" />
+  <rect
+     x="1196.29"
+     y="408.64001"
+     width="853.88"
+     height="162.12"
+     style="fill:#8d8d8d;stroke:#8d8d8d;stroke-width:0.12"
+     id="rect42" />
+  <line
+     x1="1196.29"
+     y1="2489.3101"
+     x2="3758.1799"
+     y2="2489.3101"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line44" />
+  <line
+     x1="1196.29"
+     y1="2489.3101"
+     x2="1196.29"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line46" />
+  <text
+     x="1196.29"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text48">0</text>
+  <line
+     x1="1452.45"
+     y1="2489.3101"
+     x2="1452.45"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line50" />
+  <line
+     x1="1708.62"
+     y1="2489.3101"
+     x2="1708.62"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line54" />
+  <text
+     x="1708.62"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text56">20</text>
+  <line
+     x1="1964.78"
+     y1="2489.3101"
+     x2="1964.78"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line58" />
+  <line
+     x1="2221.0701"
+     y1="2489.3101"
+     x2="2221.0701"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line62" />
+  <text
+     x="2221.0701"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text64">40</text>
+  <line
+     x1="2477.23"
+     y1="2489.3101"
+     x2="2477.23"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line66" />
+  <line
+     x1="2733.3899"
+     y1="2489.3101"
+     x2="2733.3899"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line70" />
+  <text
+     x="2733.3899"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text72">60</text>
+  <line
+     x1="2989.6799"
+     y1="2489.3101"
+     x2="2989.6799"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line74" />
+  <line
+     x1="3245.8401"
+     y1="2489.3101"
+     x2="3245.8401"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line78" />
+  <text
+     x="3245.8401"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text80">80</text>
+  <line
+     x1="3502"
+     y1="2489.3101"
+     x2="3502"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line82" />
+  <line
+     x1="3758.1599"
+     y1="2489.3101"
+     x2="3758.1599"
+     y2="2529.28"
+     style="stroke:#000000;stroke-width:5.76000023"
+     id="line86" />
+  <text
+     x="3758.1599"
+     y="2619.1399"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text88">100</text>
+  <text
+     x="2527.5901"
+     y="2729.1599"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+     id="text90">% of respondents who use:</text>
+  <text
+     x="1035.4017"
+     y="2170.353"
+     style="font-size:110.01000214px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text92">MyFace</text>
+  <text
+     x="1027.6348"
+     y="1420.87"
+     style="font-size:110.01000214px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text94">Linkchat</text>
+  <text
+     x="1050.9358"
+     y="655.85303"
+     style="font-size:110.01000214px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text96">CheepCheep</text>
+  <text
+     x="4472.7046"
+     y="500.35434"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text108">2015</text>
+  <text
+     x="4472.7046"
+     y="276.17627"
+     style="font-size:99.98999786px;font-family:Helvetica;text-anchor:end;fill:#000000"
+     id="text110">2010</text>
+  <text
+     x="2527.5901"
+     y="216.10001"
+     style="font-size:139.96000671px;font-family:Helvetica;text-anchor:middle;fill:#202020"
+     id="text112">Customers' social media use</text>
+  <rect
+     style="fill:#8d8d8d;fill-opacity:1;stroke:#8d8d8d;stroke-width:0.12;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4246"
+     width="311.86441"
+     height="162.12"
+     x="3857.6272"
+     y="168.13559" />
+  <rect
+     style="fill:#202020;fill-opacity:1;stroke:#202020;stroke-width:0.12;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect4248"
+     width="325.42374"
+     height="162.12"
+     x="3850.8474"
+     y="391.86441" />
+</svg>

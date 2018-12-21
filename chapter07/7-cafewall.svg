@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="540" version="1.1">
+<defs>
+<pattern id="wll" patternUnits="userSpaceOnUse" patternTransform="translate(-40)" width="120" height="240">
+<g stroke="#777" stroke-width="4">
+<rect height="60" width="60" fill="#fff"/>
+<rect height="60" width="60" x="60"/>
+<rect height="60" width="60" x="17" y="60" fill="#fff"/>
+<rect height="60" width="60" x="77" y="60"/>
+<rect height="60" width="60" x="-43" y="60"/>
+<rect height="60" width="60" x="34" y="120" fill="#fff"/>
+<rect height="60" width="60" x="94" y="120"/>
+<rect height="60" width="60" x="-26" y="120"/>
+<rect height="60" width="60" x="17" y="180" fill="#fff"/>
+<rect height="60" width="60" x="77" y="180"/>
+<rect height="60" width="60" x="-43" y="180"/>
+</g>
+</pattern>
+</defs>
+<rect width="840" height="540" fill="url(#wll)"/>
+</svg>

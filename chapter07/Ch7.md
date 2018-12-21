@@ -1,0 +1,11 @@
+**Chapter 7**
+
+Figures 7.2 and 7.4 were made in R and [the code is here](Ch7.R). Figure 7.1 was amended in Inkscape, and 7.6 was made in the text editor. Figure 7.3 is a screenshot and figure 7.5 and 7.7 were made by other people.
+
+[Figure 7.1](7-reduced-4-bar-compare-time-1.svg) is the same bar chart as [Figure 4.6 (left)](../Chapter04/4-bar-compare-time-1.svg), but the axes were cut down, surrounding box removed, labels switched for color, and a little legend added, all manually in Inkscape. (You might be interested to compare Figure 4.6 (left), which was generated from Stata and is very lean, and what Inkscape does to it behind the scenes, adding lots of SVG code bloating, including the local directory name on my laptop! To avoid this, you would have to do the edits in the text editor.)
+
+The three parts of Figure 7.2 are separate SVG files here: [top](7-preattentive1.svg) [middle](7-preattentive2.svg) [bottom](7-preattentive3.svg). The first two are completely made in R. The bottom image is a green line chart on a black background, with a subset of the same data superimposed as another line. Then, in Inkscape I selected the subset line, and applied the Inkscape filter called "Metallized Ridge" (in the Filters - Ridges menu) to that to make it look more physical, like a glowing neon light perhaps. (In the SVG file, note that you can see what filter was applied -- which might be a useful form of bloat in various ways.)
+
+Figure 7.3 was a screenshot from my webpage tracking birdseed consumption in my garden and musing on hypothesis generation and the interplay of inference and explanation. That page explains how the splines and the step rates are generated.
+
+[Figure 7.4](7-tukey.svg) returns to the train delay data and just is a series of lines drawn on top of an empty plot region. In the R script, you'll see that I made a function called `tukey()` but didn't go so far as to really make it stand alone. Still, you could adapt it without much effort, by removing the hard coding, and making the default argument value a function of the range of y values. You'd be advised to get rid of the loop too, lest you offend R anti-loopers. Because it's here under The Unlicense, you can even pretend you made it all yourself.
