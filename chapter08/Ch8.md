@@ -1,0 +1,17 @@
+**Chapter 8**
+
+All figures were made in R and [the code is here](Ch8.R).
+
+My use of the term "shortcut formula" for asymptotics (standard errors and such) marks me out as a follower of the [ASA GAISE guidelines](https://www.amstat.org/asa/files/pdfs/GAISE/GaiseCollege_Full.pdf) and the associated efforts to reform basic statistics education. I am not dismissing asymptotics, but I think that people who are not steeped in stats, don't intend to become technical statisticians, but have to do some calculations, benefit from the simulation-focussed approach, and the bootstrap is a big part of that. The Locks' book, whence came the Atlanta commuting data, is an introductory freshman textbook that takes this approach.
+
+[Figure 8.1](8-bootstrap-means.svg) is a scatterplot with some random data in two variables. This is drawn first with `graphics::plot()` and the bootstrap means are added as additional `points()`. I wrote a loop `for(i in 1:iter){`, which samples the data with replacement and calculates he mean each time. This shows you the basic bootstrap from first principles, so you can see what's going on. I think the bootstrap is a powerful tool that more datavoizzers should be using. Normally, though, you would firstly use a bootstrapping package to make your code easier, and secondly use a better bootstrapping technique like bias-correction (these are options that come bundled in packages). The bootstrap points are semitransparent: the color hex code is #cd4c4c15, the last two characters providing a byte value for opacity.
+
+[Figure 8.2](8-bootstrap-splines.svg) is pretty much the same thing but with splines through the data, so the bootstrapped results are added `lines()`.
+
+[Figure 8.3](8-funnel.svg) is a specialised plot that is used in clinical performance indicators, which I don't think is available in any packages in exactly the way I wanted it, so it is assembled here from scratch. This is the sort of visualisation that requires a lot of statistical work between data and image, and you should get a statistician involved to make sure it is done right.
+
+Figure 8.4 was assembled from three separate plots, and the individual SVG files are here: [left](8-hurricane1.svg), [middle](8-hurricane2.svg) and [right](8-hurricane3.svg). In the left image, I made an empty `plot()` with invisible markers at the extremes to get the size I wanted, then added many semitransparent (#00000033) lines.
+
+In the middle image, I amended the left image in Inkscape, selecting lines near the extremes (I forget if it was the extreme, or the 3rd one in, or whatever), adding an arc at the top right end, removing all other lines except the middle one (median path), converting the paths to a polygon and filling it with color. This is a convex hull approach but done very crudely (Figure 8.4 was one of the last, if not the very last, to be made, and the clock was ticking!). You'd be better advised to program the selection of the **n**th line in from the extreme and then create the same look (`ggplot2` will probably be easiest for that).
+
+In the right image, the data points that make up the lines are treated as a cloud of points, and the contour plotting functionality in `ggplot2` is used to obtain the shape we want. You might notice that it extends beyond the bottom left, like a kernel density. This might be problematic, depending on context. Hurricane paths or unemployment forecasts, for example, do not have uncertainty extending backwards in time.
