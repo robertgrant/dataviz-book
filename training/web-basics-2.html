@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A basic web page</title>
+    <script src='./d3.v3.min.js'></script>
+    <style>
+      p { color: #b62525; }
+    </style>
+  </head>
+  <body>
+    <h2>Let's make a web page!</h2>
+    <p id="thetext">What should I write?</p>
+    <button type="button" name="button" onclick="addtext()">Add text!</button>
+
+    <script>
+      var addtext = function() {
+        var oldtext = document.getElementById('thetext').innerHTML;
+        var newtext = oldtext + " Let the computer decide.";
+        d3.select("#thetext").text(newtext);
+      }
+    </script>
+  </body>
+</html>
