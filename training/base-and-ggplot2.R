@@ -26,6 +26,5 @@ ggplot(trains, aes(london_se)) + geom_histogram()
   # + coord_cartesian(xlim=c(0,16), ylim=c(0,70))
 
 
-# controlling colors
 
 
