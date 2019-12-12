@@ -26,9 +26,11 @@ fct_recode(km2$option,
 svglite("km-image-2.svg")
 ggplot(data=km2,aes(index)) + 
   geom_col(data=subset(km2,response=="more"), 
-           aes(y=percent, fill="#f48345")) + 
+           aes(y=percent), 
+           fill="#8AD4FF") + 
   geom_col(data=subset(km2,response=="less"), 
-           aes(y=percent, fill="#8AD4FF")) +
+           aes(y=percent), 
+           fill="#f48345") +
   labs(x="", y="% Votes") +
   ggtitle("Does training in data analysis affect opinions?") +
   theme(legend.position="none") +

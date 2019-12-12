@@ -27,13 +27,15 @@ fct_recode(km1$option,
 svglite("km-image-1.svg")
 ggplot(data=km1,aes(as.factor(option))) + 
   geom_col(data=subset(km1,response=="more"), 
-           aes(y=votecount, fill="#f48345")) + 
+           aes(y=votecount), 
+           fill="#8AD4FF") + 
   geom_col(data=subset(km1,response=="less"), 
-           aes(y=votecount, fill="#8AD4FF")) +
+           aes(y=votecount), 
+           fill="#f48345") +
   labs(x="", y="Votes") +
   ggtitle("Are these options more or less useful \n than the standard KM plot?") +
   theme(legend.position="none") +
   theme_classic()
 dev.off()
 
-  scale_y_continuous(breaks=seq(-40,40,10),labels=abs(seq(-40,40,10))) + 
+ # scale_y_continuous(breaks=seq(-40,40,10),labels=abs(seq(-40,40,10))) + 

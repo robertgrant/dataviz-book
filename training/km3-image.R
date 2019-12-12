@@ -28,14 +28,20 @@ fct_recode(km3$option,
            CI="unce_confint",
            FA="unce_fading") -> km3$option
 
+# define colors
+himmelblau <- c("1" = "#8AD4FF",
+                "2" = "#0089d8",
+                "3" = "#004b76")
+
 svglite("km-image-3.svg")
-ggplot(km3, aes(index, fill=choice)) +
+ggplot(km3, aes(index, fill=as.factor(choice))) +
   geom_col(aes(y=votecount)) + 
   coord_flip() + 
   theme_classic() + 
   labs(x="", y="Votes") +
   scale_x_reverse(breaks=c(2,6,10,14,18,23,27,31),
-                  labels=c("KM","ET","AU","LU",
-                           "AB","KM","CI","FA")) +
+                  labels=c("ET","AU","KM","AB","LU",
+                           "CI","KM","FA")) +
+  scale_fill_manual(values=himmelblau) +
   ggtitle("Missing preference data are not big enough \n to change the conclusions")
 dev.off()
