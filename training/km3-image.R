@@ -28,6 +28,14 @@ fct_recode(km3$option,
            CI="unce_confint",
            FA="unce_fading") -> km3$option
 
-
-ggplot(km3, aes(option)) +
-  geom_col(aes(y=votecount))
+svglite("km-image-3.svg")
+ggplot(km3, aes(index, fill=choice)) +
+  geom_col(aes(y=votecount)) + 
+  coord_flip() + 
+  theme_classic() + 
+  labs(x="", y="Votes") +
+  scale_x_reverse(breaks=c(2,6,10,14,18,23,27,31),
+                  labels=c("KM","ET","AU","LU",
+                           "AB","KM","CI","FA")) +
+  ggtitle("Missing preference data are not big enough \n to change the conclusions")
+dev.off()
