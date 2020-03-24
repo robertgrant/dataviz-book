@@ -1,8 +1,10 @@
 # *Data Visualization: charts, maps and interactive graphics*: the making of
 
-This repository accompanies my book [*Data Visualization: charts, maps and interactive graphics*](https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603), which was published by CRC Press in collaboration with the American Statistical Association in 2018. It is part of the CRC-ASA series on Statistical Reasoning In Science And Society. The code and explanations here are also available [on my own website](http://www.robertgrantstats.co.uk/dataviz-book.html), and you might prefer to view that if you are not a complete Git.
+This repository accompanies my book [*Data Visualization: charts, maps and interactive graphics*](https://www.crcpress.com/Data-Visualization-Charts-Maps-and-Interactive-Graphics/Grant/p/book/9781138707603), which was published by CRC Press in collaboration with the American Statistical Association in 2018. It is part of the CRC-ASA series on Statistical Reasoning In Science And Society. The code and explanations here are also available [on my own website](http://www.robertgrantstats.co.uk/dataviz-book.html), and you might prefer to view that if you are new to Git and Github.
 
 I explain how I made the images in the book, and some of the back story behind the examples made by others. Everything is arranged by chapter. There are code files for R and Stata, data files, and SVG original images. All the code files here are my own work and I release them under [The Unlicense](http://unlicense.org/).
+
+Please remember that these are not intended as teaching material, nor as examples of best practice in coding. In the R code in particular, you will find some idiosyncracies of mine which are unfashionable, such as looping at the first opportunity or mixing base and tidyverse.
 
 The Table Of Contents is here as TOC-dataviz.pdf
 
