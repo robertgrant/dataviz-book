@@ -2,9 +2,30 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>My page</title>
+    <script src='./d3.v3.min.js'></script>
+
+    <style>
+      p.p2 { color: #b62525; }
+      p#thetext { color: #25b625; }
+    </style>
+
   </head>
   <body>
+    <h2>Let's make a web page!</h2>
+    <p id="thetext">What should I write?</p>
+    <p class="p2">I don't know...</p>
+    <button type="button" name="button" onclick="addtext()">Add text!</button>
+    <br>
+    <img src="./km-image-1.png" alt="" width="400px">
+
+    <script>
+      var addtext = function() {
+        var oldtext = document.getElementById('thetext').innerHTML;
+        var newtext = oldtext + " Let the computer decide.";
+        d3.select("#thetext").text(newtext);
+      }
+    </script>
 
   </body>
 </html>
